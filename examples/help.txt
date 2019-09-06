@@ -1,0 +1,2 @@
+ UnitTest script
+ ./vendor/bin/phpunit --bootstrap ./vendor/autoload.php ./tests/HelloTest
